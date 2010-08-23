@@ -1,0 +1,4 @@
+realpath.c: display the absolute path to a file or directory.
+Adam Liss, August, 2007
+This program is provided "as-is" to the public domain, without express or
+implied warranty, for any non-profit use, provided this notice is maintained.
